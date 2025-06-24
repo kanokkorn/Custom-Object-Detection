@@ -5,10 +5,10 @@ jupyter
 matplotlib
 mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
-setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
 ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
 numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
-tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
 prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulnerability
 jinja2>=3.1.3 # not directly required, pinned by Snyk to avoid a vulnerability
 keras>=2.13.1rc0 # not directly required, pinned by Snyk to avoid a vulnerability
@@ -18,3 +18,4 @@ jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulner
 urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
 anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
